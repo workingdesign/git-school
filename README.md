@@ -1,0 +1,2 @@
+# git-school
+training github
