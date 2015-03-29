@@ -1,4 +1,4 @@
 # git-school
 training github
 
-note from workingdesign to conflict!
+note from workingdesign to conflict, still!
